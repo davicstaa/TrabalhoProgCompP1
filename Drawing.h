@@ -1,0 +1,11 @@
+void Clear();
+void OcultarCursor();
+void MostrarCursor();
+void MoveTo(int, int);
+void DrawComputer(int, int, int);
+void DrawHacker(int, int, int);
+void DrawNetwork(int, int);
+void DrawFrame();
+void AnimarAlice(int, int);
+void AnimarJohnny(int, int, int);
+void AnimarBob(int, int);

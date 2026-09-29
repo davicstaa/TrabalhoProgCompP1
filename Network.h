@@ -1,0 +1,11 @@
+unsigned long long Empacotar(int, int, char, char, char, char, char, int);
+void Transmitir(unsigned long long);
+unsigned long long Receber();
+int Origem(unsigned long long);
+int Destino(unsigned long long);
+char Mensagem1(unsigned long long);
+char Mensagem2(unsigned long long);
+char Mensagem3(unsigned long long);
+char Mensagem4(unsigned long long);
+char Mensagem5(unsigned long long);
+int Valor(unsigned long long);
